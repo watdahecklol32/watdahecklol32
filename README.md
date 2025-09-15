@@ -1,16 +1,15 @@
-## Hi there 👋
+<div align="center">
+  Hi, I am WATDAHECKLOL32, I am a horrid programmer.
+  You may find most of my work here:
 
-<!--
-**watdahecklol32/watdahecklol32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
+  https://github.com/orgs/WATDAHECKLOL-Studios/repositories
+</div>
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <img src="https://github-readme-stats.vercel.app/api?username=watdahecklol32&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true"
+       width="400" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=watdahecklol32&layout=compact&langs_count=5&theme=dark&hide_border=true"
+       width="400" height="150" alt="Top Languages" />
+</div>
