@@ -6,6 +6,8 @@
   
   You may find most of my work here:
    https://github.com/WATDAHECKLOL-Softworks
+
+   https://watdahecklol-softworks.gitbook.io/hypernova-serverside-hub
 </div>
 
 <div align="center">
