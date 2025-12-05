@@ -32,6 +32,7 @@ I am most experienced in Lua & LuaU but I am also learning JS and C, almost all 
 ![Lua](https://img.shields.io/badge/-lua-black?style=flat-square&logo=lua)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
+![ASM](https://img.shields.io/badge/ASM-X86-black)
 
 
 ## Let's get to know each other!
