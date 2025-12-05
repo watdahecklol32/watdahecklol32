@@ -10,7 +10,7 @@
 
 
 ## About me
-I am a 15 year old programmer who lives in america with over 1 year of experience.
+I am a 15 year old programmer with ADHD who lives in america with over 1 year of experience.
 
 
 
@@ -35,7 +35,7 @@ I am most experienced in Lua & LuaU but I am also learning JS and C, almost all 
 
 
 ## Let's get to know each other!
-My discord is watdahecklol32.
+My discord is watdahecklol32, my time zone is CST.
 
 My DMs are always open!
 
