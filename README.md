@@ -9,24 +9,24 @@
 </p>
 
 
-## About me!
+## About me
 I am a 15 year old programmer who lives in america with over 1 year of experience.
 
 
 
-I love my friends, and my hobbies include software security, software development, cryptography!
+I love my friends, and my hobbies include software security, software development, cryptography, security researching.
 
 
 
 
 
-## Languages:
+## Languages
 I know both spanish, and english! (I am horrible at spanish :P)
 
 
 
 
-## Programming Languages:
+## Programming Languages
 I am most experienced in Lua & LuaU but I am also learning JS and C, almost all of my uploaded code are in LuaU!
 
 ![Lua](https://img.shields.io/badge/-lua-black?style=flat-square&logo=lua)
@@ -47,7 +47,7 @@ My DMs are always open!
 
 
 
-## Stats:
+## Stats
 
 <div align="center">
   <a href="https://github.com/watdahecklol32">
