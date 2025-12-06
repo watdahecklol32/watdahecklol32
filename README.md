@@ -14,7 +14,7 @@ I am a 15 year old programmer with ADHD who lives in america with over 1 year of
 
 
 
-I love my friends, and my hobbies include software security, software development, cryptography, security researching.
+I love my friends, and my hobbies include software development, cryptography, security researching.
 
 
 
