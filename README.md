@@ -6,7 +6,9 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=watdahecklol32&color=brightgreen" alt="Profile Views">
+  <img src="https://img.shields.io/github/followers/watdahecklol32?label=Followers&style=social" alt="GitHub followers" />
 </p>
+
 
 
 ## About me
